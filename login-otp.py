@@ -1,0 +1,1 @@
+print("OTP sent to your registered mobile number.")
